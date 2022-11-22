@@ -3,7 +3,7 @@ import pedro from '../../img/thestocks.jpg'
 const Img=()=>{
     return (
         <img className='imagen' src={santi} alt=""/>
-        <img className='imagen' src={santi} alt=""/>
+      
        
     )
 }
